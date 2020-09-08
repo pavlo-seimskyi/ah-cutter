@@ -22,4 +22,9 @@ In the first notebook, audiofiles are transformed from time domain into frequenc
 ## Part 2 - Training the model (training.ipynb)
 In the second notebook, a resnet34 CNN pretrained model is fine-tuned.
 
+![Results: Metrics](/docs/metrics.png)
+
+![Results: Confusion Matrix](/docs/confusion.png)
+
+
 
